@@ -18,3 +18,8 @@ Eu sou o Gabriel Tomazi, sou programador Front-End, atualmente estou aprendendo 
 </a>
 </p>
 
+
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bielkzz)](https://github.com/anuraghazra/github-readme-stats)
