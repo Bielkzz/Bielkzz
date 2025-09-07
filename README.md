@@ -13,7 +13,7 @@ I'm Gabriel Tomazi, I'm Front-End Developer, actually learning and creating proj
 <img align="left" src="https://simpleicons.org/icons/instagram.svg" width="30px">
 </a>
 
-<a align="center" href="https://www.linkedin.com/in/gabriel-fernandes-tomazi-ab94a4324">
+<a href="https://www.linkedin.com/in/gabriel-fernandes-tomazi-ab94a4324">
 <img src="https://cdn-icons-png.flaticon.com/128/3536/3536569.png" width="30px">
 </a>
 </p>
