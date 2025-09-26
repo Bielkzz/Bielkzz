@@ -23,4 +23,4 @@ I'm Gabriel Tomazi, I'm Front-End Developer, actually learning and creating proj
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bielkzz)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieltomazi)](https://github.com/anuraghazra/github-readme-stats)
